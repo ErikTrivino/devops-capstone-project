@@ -1,4 +1,5 @@
 # DevOps Capstone Template
+![Estado de la construcción](https://github.com/ErikTrivino/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 devops-capstone-project
 #devops-capstone-project
 ##devops-capstone-project
